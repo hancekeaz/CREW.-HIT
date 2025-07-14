@@ -780,7 +780,7 @@ end
 })
 
 local Button = MainTab:CreateButton({
-   Name = "TROLL [GOMA]",
+   Name = "TROLL [CREW.$HIT]",
    Callback = function()
    loadstring(game:HttpGet("https://raw.githubusercontent.com/TheqopThe/robax/refs/heads/main/jumpscare.lua"))()
    end,
